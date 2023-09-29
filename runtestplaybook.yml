@@ -1,0 +1,5 @@
+---
+- name: Running a role from a collection in AAP
+  hosts: 44.227.107.21
+  roles: 
+  - role: augustin.augcollection.augrole
